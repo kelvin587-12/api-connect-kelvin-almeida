@@ -42,13 +42,13 @@ Antes de iniciar, instale:
 ### 1. Clone o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/kelvin587-12/api-connect-kelvin-almeida.git
 ```
 
 Entre na pasta do projeto:
 
 ```bash
-cd api-connect
+cd api-connect-kelvin-almeida
 ```
 
 ### 2. Crie o ambiente virtual
